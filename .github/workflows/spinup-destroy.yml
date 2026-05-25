@@ -9,9 +9,7 @@ env:
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: westeurope
-  AZURE_WEBAPP_NAME: IustinTesacn-ttt-app
-
-
+  AZURE_WEBAPP_NAME: iustintesacn-ttt-app
 
 jobs:
   setup-up-azure-resources:
